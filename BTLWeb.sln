@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTLWeb", "BTLWeb\BTLWeb.csproj", "{B7C9F236-D575-4F38-9230-BEDB5B95BFA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90E3C07B-BBA6-409A-A9CA-C60F97335747}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C9F236-D575-4F38-9230-BEDB5B95BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C9F236-D575-4F38-9230-BEDB5B95BFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C9F236-D575-4F38-9230-BEDB5B95BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C9F236-D575-4F38-9230-BEDB5B95BFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAD5965E-9B5B-4FF9-8F90-61F0268B7B5D}
+	EndGlobalSection
+EndGlobal

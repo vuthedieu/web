@@ -1,0 +1,2449 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BTLWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTLWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\style.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Camera\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\cat-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\cat-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\cat-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\cat-4.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\offer-1.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\offer-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\offer-2.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\offer-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\payments.png",
+      "PackagePath": "staticwebassets\\Camera\\img\\payments.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-1.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-2.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-3.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-4.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-4.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-5.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-5.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-6.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-6.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-7.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-7.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\img\\vendor-8.jpg",
+      "PackagePath": "staticwebassets\\Camera\\img\\vendor-8.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\js\\ShoppingCart.js",
+      "PackagePath": "staticwebassets\\Camera\\js\\ShoppingCart.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\js\\main.js",
+      "PackagePath": "staticwebassets\\Camera\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Camera\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Camera\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Camera\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\mail\\contact.js",
+      "PackagePath": "staticwebassets\\Camera\\mail\\contact.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\mail\\contact.php",
+      "PackagePath": "staticwebassets\\Camera\\mail\\contact.php"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\mail\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\Camera\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\Camera\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Camera\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\drake.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_accordion.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_backgrounds.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_components.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_components.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropdown-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_floating-elements.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_floating-elements.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_list-check.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_ripple.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_rtl-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_rtl-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\badges\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-blog.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-profile.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\theme-pro.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\theme-pro.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonIXUS17501.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonIXUS17501.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonIXUS17502.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonIXUS17502.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonIXUS17503.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonIXUS17503.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotG7XMarkIII01.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotG7XMarkIII01.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotG7XMarkIII02.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotG7XMarkIII02.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotG7XMarkIII03.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotG7XMarkIII03.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX430IS01.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX430IS01.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX430IS02.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX430IS02.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX430IS03.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX430IS03.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX620HS01.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX620HS01.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX620HS02.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX620HS02.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanonPowerShotSX620HS03.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanonPowerShotSX620HS03.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A01.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A01.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A02.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A02.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A03.png",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\CanoniNSPiC[C]CV-123A03.png"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX10001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX10001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX10002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX10002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX10003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX10003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX100S01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX100S01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX100S02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX100S02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmGFX100S03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmGFX100S03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX-H2S01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX-H2S01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX-H2S02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX-H2S02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX-H2S03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX-H2S03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX100V01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX100V01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX100V02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX100V02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiFilmX100V03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiFilmX100V03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiXP14001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiXP14001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiXP14002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiXP14002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\FujiXP14003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\FujiXP14003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaMaxxum700001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaMaxxum700001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaMaxxum700002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaMaxxum700002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaMaxxum700003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaMaxxum700003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaX-500SLR01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaX-500SLR01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaX-500SLR02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaX-500SLR02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaX-500SLR03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaX-500SLR03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXD-11SLR01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXD-11SLR01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXD-11SLR02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXD-11SLR02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXD-11SLR03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXD-11SLR03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-101.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-101.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-102.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-102.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-103.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-103.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-MSLR01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-MSLR01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-MSLR02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-MSLR02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\MinoltaXG-MSLR03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\MinoltaXG-MSLR03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ3001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ3001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ3002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ3002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ3003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ3003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ6II01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ6II01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ6II02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ6II02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ6II03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ6II03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ7II01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ7II01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ7II02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ7II02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ7II03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ7II03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ801.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ801.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ802.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ802.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZ803.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZ803.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZFC01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZFC01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZFC02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZFC02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\NikonZFC03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\NikonZFC03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-640001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-640001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-640002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-640002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-640003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-640003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-7RM501.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-7RM501.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-7RM502.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-7RM502.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyAlphaILCE-7RM503.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyAlphaILCE-7RM503.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G01.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G01.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G02.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G02.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G03.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX0M2G03.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX10M401.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX10M401.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX10M402.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX10M402.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyCyberShotDSC-RX10M403.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyCyberShotDSC-RX10M403.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyZV-E1001.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyZV-E1001.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyZV-E1002.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyZV-E1002.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\SonyZV-E1003.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\SonyZV-E1003.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\banner1.jpeg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\banner1.jpeg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\img\\ImageCamera\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\ImageCamera\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Máy tính\\BTL_Lap-Trinh-API-master\\BTL_Lap-Trinh-API-master\\BTLWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BTLWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BTLWeb.props",
+      "PackagePath": "build\\BTLWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BTLWeb.props",
+      "PackagePath": "buildMultiTargeting\\BTLWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BTLWeb.props",
+      "PackagePath": "buildTransitive\\BTLWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

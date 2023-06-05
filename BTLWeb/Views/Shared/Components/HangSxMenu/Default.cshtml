@@ -1,0 +1,70 @@
+﻿@model List<THangSx>
+@addTagHelper  *, Microsoft.AspNetCore.Mvc.TagHelpers
+@foreach (var item in Model)
+{
+    var getUrl = "https://localhost:44368/api/hangsx/" + item.MaHangSx;
+    <a style="cursor:pointer" class="nav-item nav-link" onclick="showProductByBrand('@getUrl')"> @item.HangSx</a>
+}
+
+
+<script>
+    function showProductByBrand(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            error: function (response) {
+                alert(response.responseText);
+            },
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += `<div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                                <div class="product-item bg-light mb-4">
+                                    <div class="product-img position-relative overflow-hidden">
+                                        <img class="img-fluid w-100" src="../img/ImageCamera/${val.anhDaiDien}" alt="">
+                                        <div class="product-action">
+                                            <a class="btn btn-outline-dark btn-square" onclick="muaSp(${val.maSp})"><i class="fa fa-shopping-cart"></i></a>
+                                            <a class="btn btn-outline-dark btn-square" href=""><i class="far fa-heart"></i></a>
+                                            <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-sync-alt"></i></a>
+                                            <a class="btn btn-outline-dark btn-square" href=""><i class="fa fa-search"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="text-center py-4">
+                                        <a class="h6 text-decoration-none text-truncate">${val.tenSp}</a>
+                                        <div class="d-flex align-items-center justify-content-center mt-2">
+                                                <h5>${val.giaLonNhat}</h5><h6 class="text-muted ml-2"><del></del></h6>
+                                        </div>
+                                        <div class="d-flex align-items-center justify-content-center mb-1">
+                                            <small class="fa fa-star text-primary mr-1"></small>
+                                            <small class="fa fa-star text-primary mr-1"></small>
+                                            <small class="fa fa-star text-primary mr-1"></small>
+                                            <small class="fa fa-star text-primary mr-1"></small>
+                                            <small class="fa fa-star-half-alt text-primary mr-1"></small>
+                                            <small>(99)</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>`
+                });
+                $('#check').html(str);
+            }
+        });
+    }
+
+    function muaSp(productId) {
+        $.ajax({
+            url: 'https://localhost:44368/shoppingcart/add',
+            data: {
+                productId: productId
+            },
+            type: 'POST',
+            dataType: 'json',
+            success: function (res) {
+                if (res.status) {
+                    alert('Add product successed!');
+                }
+            }
+        })
+    }
+</script>

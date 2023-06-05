@@ -1,0 +1,71 @@
+﻿@using BTLWeb.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<p>
+    <a asp-area="Admin" asp-controller="HomeAdmin" asp-action="ThemSanPham">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Mã loại
+            </th>
+            <th>
+                Mã hãng sản xuất
+                </t>
+            <th>
+                Mã chất liệu
+            </th>
+            <th>
+                Giá lớn nhất
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr class="table-success">
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenSp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaHangSx)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaChatLieu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GiaLonNhat)
+                </td>
+                <td>
+                    <a asp-action="SuaSanPham" asp-route-maSanPham="@item.MaSp">Edit</a> |
+                    <a asp-action="XemChiTietSP" asp-route-maSanPham="@item.MaSp">Details</a> |
+                    <a asp-action="XoaSanPham" asp-route-maSanPham="@item.MaSp">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("DanhMucSanPham", new {page=page}), new
+X.PagedList.Web.Common.PagedListRenderOptions(){
+    LiElementClasses = new List<String> {"page-item"},
+    PageClasses = new List<String> {"page-link"}
+})
+

@@ -1,0 +1,198 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model BTLWeb.Models.TDanhMucSp
+
+@{
+    ViewData["Title"] = "SuaSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<style>
+    .form-group input {
+        border: 2px solid black;
+    }
+
+    .form-group select {
+        border: 2px solid black;
+    }
+</style>
+
+<div class="card-body px-0 pb-2">
+    <div class="table-responsive p-0">
+        <form asp-action="SuaSanPham" method="post">
+            <table class="table align-items-center mb-0">
+                <thead>
+                    <tr>
+                        <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Models</th>
+                        <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Values</th>
+                        <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <tr>
+                        <td>
+                            <label asp-for="MaSp" class="control-label">Mã sản phẩm</label>
+                        </td>
+                        <td>
+                            <input asp-for="MaSp" class="form-control" />
+                            <span asp-validation-for="MaSp" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="TenSp" class="control-label">Tên sản phẩm</label>
+                        </td>
+                        <td>
+                            <input asp-for="TenSp" class="form-control" />
+                            <span asp-validation-for="TenSp" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="MaChatLieu" class="control-label">Mã chất liệu</label>
+                        </td>
+                        <td>
+                            <select asp-for="MaChatLieu" class="form-control" asp-items="ViewBag.MaChatLieu"></select>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="MaHangSx" class="control-label">Mã hãng Sản xuất</label>
+                        </td>
+                        <td>
+                            <select asp-for="MaHangSx" class="form-control" asp-items="ViewBag.MaHangSx"></select>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="MaNuocSx" class="control-label">Mã nước Sản xuất</label>
+                        </td>
+                        <td>
+                            <select asp-for="MaNuocSx" class="form-control" asp-items="ViewBag.MaNuocSx"></select>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="ThoiGianBaoHanh" class="control-label">Thời gian bảo hành</label>
+                        </td>
+                        <td>
+                            <input asp-for="ThoiGianBaoHanh" class="form-control" />
+                            <span asp-validation-for="ThoiGianBaoHanh" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="GioiThieuSp" class="control-label">Giới thiệu sản phẩm</label>
+                        </td>
+                        <td>
+                            <input asp-for="GioiThieuSp" class="form-control" />
+                            <span asp-validation-for="GioiThieuSp" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="ChietKhau" class="control-label">Chiết khấu</label>
+                        </td>
+                        <td>
+                            <input asp-for="ChietKhau" class="form-control" />
+                            <span asp-validation-for="ChietKhau" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="MaLoai" class="control-label">Mã loại</label>
+                        </td>
+                        <td>
+                            <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.MaLoai"></select>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="MaDt" class="control-label">Mã đối tượng</label>
+                        </td>
+                        <td>
+                            <select asp-for="MaDt" class="form-control" asp-items="ViewBag.MaDt"></select>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="AnhDaiDien" class="control-label">Ảnh đại diện</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="AnhDaiDien" class="form-control" />
+                            <span asp-validation-for="AnhDaiDien" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="GiaNhoNhat" class="control-label">Giá nhỏ nhất</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="GiaNhoNhat" class="form-control" />
+                            <span asp-validation-for="GiaNhoNhat" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label asp-for="GiaLonNhat" class="control-label">Giá lớn nhất</label>
+
+                        </td>
+                        <td>
+                            <input asp-for="GiaLonNhat" class="form-control" />
+                            <span asp-validation-for="GiaLonNhat" class="text-danger"></span>
+                        </td>
+                        <td class="align-middle text-center text-sm">
+                            <span class="badge badge-sm bg-gradient-success">Editable</span>
+                        </td>
+                    </tr>
+
+
+                </tbody>
+            </table>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+        <div>
+            <a asp-action="DanhMucSanPham" asp-controller="HomeAdmin" asp-area="Admin">Back to List</a>
+        </div>
+    </div>
+</div>

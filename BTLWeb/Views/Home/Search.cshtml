@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Search";
+    Layout = "~/Views/Shared/_ShopLayout.cshtml";
+}
+
+@using X.PagedList.Mvc.Core;
+@model IEnumerable<TDanhMucSp>;
+
+@foreach (var item in Model)
+{
+    @await Html.PartialAsync("_PatialSanPham", item)
+}

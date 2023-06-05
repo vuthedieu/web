@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BTLWeb.Models.TChiTietHdb>
+
+@{
+    ViewData["Title"] = "XemChiTietHD";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Mã Hóa đơn
+            </th>
+            <th>
+                Mã sản phẩm
+            </th>
+            <th>
+                Đơn giá bán
+            </th>
+            <th>
+                Số lượng bán
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-success">
+            <td>
+                @Html.DisplayFor(modelItem => item.MaHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGiaBan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuongBan)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
